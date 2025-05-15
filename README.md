@@ -6,4 +6,4 @@ Detailed project specification is given in the `project_materials/Project specif
 
 Code is given in the `src/` directory.
 
-When developing your own project based on this repository, don't forget to put your academic email and name in the `Cargo.toml` file according to the rules written in the specification.
+how to run - cargo run
